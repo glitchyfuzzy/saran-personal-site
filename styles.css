@@ -1,0 +1,7 @@
+body {
+    background-image: url('purple-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; /* scale to cover viewport without tiling */
+    background-position: center center;
+    min-height: 100vh;
+}
